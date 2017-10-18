@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 20fa032c0f2b5b84a86cfe467e750333
+timeCreated: 1507910411
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StarTiles_0
+    21300002: StarTiles_1
+    21300004: StarTiles_2
+    21300006: StarTiles_3
+    21300008: StarTiles_4
+    21300010: StarTiles_5
+    21300012: StarTiles_6
+    21300014: StarTiles_7
+    21300016: StarTiles_8
+    21300018: StarTiles_9
+    21300020: StarTiles_10
+    21300022: StarTiles_11
+    21300024: StarTiles_12
+    21300026: StarTiles_13
+    21300028: StarTiles_14
+    21300030: StarTiles_15
+    21300032: StarTiles_16
+    21300034: StarTiles_17
+    21300036: StarTiles_18
+    21300038: StarTiles_19
+    21300040: StarTiles_20
+    21300042: StarTiles_21
+    21300044: StarTiles_22
+    21300046: StarTiles_23
+    21300048: StarTiles_24
+    21300050: StarTiles_25
+    21300052: StarTiles_26
+    21300054: StarTiles_27
+    21300056: StarTiles_28
+    21300058: StarTiles_29
+    21300060: StarTiles_30
+    21300062: StarTiles_31
+    21300064: StarTiles_32
+    21300066: StarTiles_33
+    21300068: StarTiles_34
+    21300070: StarTiles_35
+    21300072: StarTiles_36
+    21300074: StarTiles_37
+    21300076: StarTiles_38
+    21300078: StarTiles_39
+    21300080: StarTiles_40
+    21300082: StarTiles_41
+    21300084: StarTiles_42
+    21300086: StarTiles_43
+    21300088: StarTiles_44
+    21300090: StarTiles_45
+    21300092: StarTiles_46
+    21300094: StarTiles_47
+    21300096: StarTiles_48
+    21300098: StarTiles_49
+    21300100: StarTiles_50
+    21300102: StarTiles_51
+    21300104: StarTiles_52
+    21300106: StarTiles_53
+    21300108: StarTiles_54
+    21300110: StarTiles_55
+    21300112: StarTiles_56
+    21300114: StarTiles_57
+    21300116: StarTiles_58
+    21300118: StarTiles_59
+    21300120: StarTiles_60
+    21300122: StarTiles_61
+    21300124: StarTiles_62
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225.5
+        width: 200
+        height: 225.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarTiles_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 225.5
+        width: 200
+        height: 225.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarTiles_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 225.5
+        width: 200
+        height: 225.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarTiles_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.5
+        width: 200
+        height: 225.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarTiles_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0.5
+        width: 200
+        height: 225.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StarTiles_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0.5
+        width: 200
+        height: 225.5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
